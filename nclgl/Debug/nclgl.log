@@ -1,0 +1,34 @@
+﻿Build started 12/12/2014 07:41:40.
+     1>Project "D:\Physics\Game Tech 2014\nclgl\nclgl.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D GLEW_STATIC /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Plane.cpp
+         Plane.cpp
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\Lib.exe /OUT:"D:\Physics\Game Tech 2014\Game Technologies\Debug\nclgl.lib" /NOLOGO Debug\Camera.obj
+         Debug\CubeRobot.obj
+         Debug\Frustum.obj
+         Debug\GameTimer.obj
+         Debug\HeightMap.obj
+         Debug\Keyboard.obj
+         Debug\Matrix4.obj
+         Debug\MD5Anim.obj
+         Debug\MD5FileData.obj
+         Debug\MD5Mesh.obj
+         Debug\MD5Node.obj
+         Debug\Mesh.obj
+         Debug\Mouse.obj
+         Debug\OBJMesh.obj
+         Debug\OGLRenderer.obj
+         Debug\ParticleEmitter.obj
+         Debug\Plane.obj
+         Debug\Quaternion.obj
+         Debug\SceneNode.obj
+         Debug\Shader.obj
+         Debug\TextMesh.obj
+         Debug\Window.obj
+         nclgl.vcxproj -> D:\Physics\Game Tech 2014\Game Technologies\Debug\nclgl.lib
+     1>Done Building Project "D:\Physics\Game Tech 2014\nclgl\nclgl.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.56
